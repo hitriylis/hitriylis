@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Andrey
+## Hi there 👋 My name is Andrei
 #### About Me
 I am 37 years old. I have 15 years of experience in the design of gas supply systems and project team management. Since october 2022 I live in Armenia, Yerevan. Now I'm studying in Hexlet IT school and I'm looking for the new career opportunities as a Junior Frontend developer. I decided to change my proffesion, because I want a more stable position in a rapidly changing world, great opportunities for career growth and integration into the international community of professionals. I like to learn something new, especially if it helps to make people's lives better and more convenient.
 
