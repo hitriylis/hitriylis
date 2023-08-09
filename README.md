@@ -15,7 +15,7 @@ I am 37 years old. Since october 2022 I live in Armenia, Yerevan. Now I'm studyi
 #### Portfolio:
 - 🎓 My study projects - https://github.com/stars/hitriylis/lists/study
 - 📄 My CV -
-- 🌐 My page - 
+- 🌐 My website - 
 
 #### Contacts:
 - 📧 email: avlugovov@gmail.com
