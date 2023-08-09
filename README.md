@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Andrey
+## Hi there 👋 My name is Andrey
 #### About Me
 I am 37 years old. Since october 2022 I live in Armenia, Yerevan. Now I'm studying in Hexlet IT school and I'm looking for the new career opportunities as a Junior Frontend developer. I decided to change my proffesion, because I want a more stable position in a rapidly changing world, great opportunities for career growth and integration into the international community of professionals. 
 
