@@ -16,9 +16,8 @@ I am 37 years old. I have 15 years of experience in the design of gas supply sys
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Portfolio:
-- 🎓 My study projects - https://github.com/stars/hitriylis/lists/study
-- 📄 My CV -
-- 🌐 My website - 
+- 🎓 [My study projects](https://github.com/stars/hitriylis/lists/study)
+- 📄 [My CV](https://cv.hexlet.io/ru/resumes/2091)
 
 #### Contacts:
 - 📧 email: avlugovov@gmail.com
