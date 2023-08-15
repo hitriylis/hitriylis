@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is Andrei
 #### About Me
-I am 37 years old. I have 15 years of experience in the design of gas supply systems and project team management. Since october 2022 I live in Armenia, Yerevan. Now I'm studying in Hexlet IT school and I'm looking for the new career opportunities as a Junior Frontend developer. I decided to change my proffesion, because I want a more stable position in a rapidly changing world, great opportunities for career growth and integration into the international community of professionals. I chose frontend development for the ability to visually see the result of any task and an old dream to learn how to create convenient user interfaces. I like to learn something new, I have an active life position, I am interested in music, cinema, reading.
+I'm studying in Hexlet IT school and I'm looking for the new career opportunities as a Junior Frontend developer.  
+I have 15 years of experience in the design of gas supply systems and project team management. Since october 2022 I live in Armenia, Yerevan. I decided to change my proffesion, because I want a more stable position in a rapidly changing world, great opportunities for career growth and integration into the international community of professionals. I chose frontend development for the ability to visually see the result of any task and an old dream to learn how to create convenient user interfaces. I like to learn something new, I have an active life position, I am interested in music, cinema, reading.
 
 #### Education:
 - 01.09.2003-01.06.2008 - Samara State Technical University (Russia, Samara), specialty - Heating energy engineer
