@@ -24,3 +24,7 @@ I have 15 years of experience in the design of gas supply systems and project te
 - 📧 email: avlugovov@gmail.com
 - 📱telegram: https://t.me/hitriy_lis
 
+#### Certificates:
+- 🎓 [Hexlet IT school [EN]](https://chat.hexlet.io/files/kwn4x5bdkjgm9fwj5mxk361oia/public?h=0t8Vu1bSjBWjdzFYXaC8I-tG9hyr2o0Q2JHCWlr6I3U)
+- 🎓 [Hexlet IT school [RU]](https://chat.hexlet.io/files/cod7yrjax7nexjb5zh13d5p1yr/public?h=sXnW8nA-bWaUE8k5CvIHVgwWw8mwoVUJ7aeILyeTtbw)
+
