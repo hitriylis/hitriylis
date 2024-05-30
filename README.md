@@ -17,7 +17,7 @@ I have 15 years of experience in designing gas supply systems, of which more tha
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Portfolio:
-- 🎓 [My study projects](https://github.com/stars/hitriylis/lists/study)
+- 🎓 [My study projects](https://github.com/stars/hitriylis/lists/study-projects)
 - 📄 [My CV](https://hitriylis.github.io/)
 
 #### Contacts:
