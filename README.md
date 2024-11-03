@@ -23,7 +23,7 @@ I have 15 years of experience in designing gas supply systems, of which more tha
 #### Portfolio:
 - 📄 [My CV](https://hitriylis.github.io/)
 - 🎓 [My study projects](https://github.com/stars/hitriylis/lists/study-projects)
-- 📱 [My study landings]([https://github.com/stars/hitriylis/lists/study-projects](https://github.com/stars/hitriylis/lists/study-landings))
+- 📱 [My study landings](https://github.com/stars/hitriylis/lists/study-landings)
 
 #### Contacts:
 - 📧 email: avlugovov@gmail.com
