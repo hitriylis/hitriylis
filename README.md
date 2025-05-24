@@ -4,8 +4,8 @@ I graduated from [Hexlet IT school](https://github.com/Hexlet) and now I'm looki
 I have 16 years of experience in designing gas supply systems, of which more than 6 years were managing a project team. Since october 2022 I live in Armenia, Yerevan. I decided to change my proffesion, because I want a more stable position in a rapidly changing world, great opportunities for career growth and integration into the international community of professionals. I chose frontend development out of a desire to learn how to make user-friendly websites and dynamic applications to create a better user experience. I like to learn something new, I have an active life position, I am interested in music, cinema, reading.
 
 #### Education:
-- 02.2025-03.2025 - [Hexlet IT school](https://github.com/Hexlet), specialty - QA engineer
-- 01.2024-04.2024 - [Hexlet IT school](https://github.com/Hexlet), specialty - Professional layout
+- 01.2025-03.2025 - [Hexlet IT school](https://github.com/Hexlet), specialty - QA engineer
+- 12.2023-03.2024 - [Hexlet IT school](https://github.com/Hexlet), specialty - Professional layout
 - 10.2022-10.2023 - [Hexlet IT school](https://github.com/Hexlet), specialty - Frontend developer
 - 09.2003-06.2008 - Samara State Technical University (Russia, Samara), specialty - Heating energy engineer
 
