@@ -1,11 +1,14 @@
 ## Hi there 👋 My name is Andrei
 #### About Me
-I graduated from [Hexlet IT school](https://github.com/Hexlet) and now I'm looking for new career opportunities as a junior front-end developer / junior QA engineer.  
-I have 16 years of experience in designing gas supply systems, of which more than 6 years were managing a project team. Since october 2022 I live in Armenia, Yerevan. I decided to change my proffesion, because I want a more stable position in a rapidly changing world, great opportunities for career growth and integration into the international community of professionals. I chose frontend development out of a desire to learn how to make user-friendly websites and dynamic applications to create a better user experience. I like to learn something new, I have an active life position, I am interested in music, cinema, reading.
+Aspiring Junior QA Engineer with hands-on experience in manual, API, and basic automated testing. Trained in modern testing tools and techniques. Strong foundation in JavaScript, HTML/CSS, REST API, PostgreSQL, Postman, and Qase. 
+Transitioning into tech after 16+ years in engineering, including 6+ years in leadership roles. 
+Detail-oriented, self-driven, and eager to grow in a QA role. Open to full-time, part-time, project-based, or trainee positions (remote or on-site).
+I have an active lifestyle, enjoy walking and photographing architecture, listening to music (both live and at home), watching classic horror movies and binge-watching new TV series, reading popular science and nonfiction books
+
 
 #### Education:
 - 01.2025-04.2025 - [Hexlet IT school](https://github.com/Hexlet), specialty - QA engineer
-- 12.2023-03.2024 - [Hexlet IT school](https://github.com/Hexlet), specialty - Professional layout
+- 12.2023-03.2024 - [Hexlet IT school](https://github.com/Hexlet), specialty - HTML developer
 - 10.2022-10.2023 - [Hexlet IT school](https://github.com/Hexlet), specialty - Frontend developer
 - 09.2003-06.2008 - Samara State Technical University (Russia, Samara), specialty - Heating energy engineer
 
