@@ -1,9 +1,9 @@
 ## Hi there 👋 My name is Andrei
 #### About Me
-- Aspiring Junior QA Engineer with hands-on experience in manual, API, and basic automated testing. Trained in modern testing tools and techniques. Strong foundation in JavaScript, HTML/CSS, REST API, PostgreSQL, Postman, and Qase. 
-- Transitioning into tech after 16+ years in engineering, including 6+ years in leadership roles. 
-- Detail-oriented, self-driven, and eager to grow in a QA role. Open to full-time, part-time, project-based, or trainee positions (remote or on-site).
-- I have an active lifestyle, enjoy walking and photographing architecture, listening to music (both live and at home), watching classic horror movies and binge-watching new TV series, reading popular science and nonfiction books
+Aspiring **Junior QA Engineer** with hands-on experience in manual, API, and basic automated testing. Trained in modern testing tools and techniques. Strong foundation in JavaScript, HTML/CSS, REST API, PostgreSQL, Postman, and Qase.   
+Transitioning into tech after 16+ years in engineering, including 6+ years in leadership roles.   
+Detail-oriented, self-driven, and eager to grow in a QA role. Open to full-time, part-time, project-based, or trainee positions (remote or on-site).  
+I have an active lifestyle, enjoy walking and photographing architecture, listening to music (both live and at home), watching classic horror movies and binge-watching new TV series, reading popular science and nonfiction books.  
 
 
 #### Education:
